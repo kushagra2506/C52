@@ -96,34 +96,42 @@ img{
 } */
 
 #camel:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #chameleons:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #pigeon:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #teddy-bear:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #panda:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #frog:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #cicada:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
 #dogs:hover img{
+    transform: scale(1.2);
     opacity: 0.5;
 }
 
